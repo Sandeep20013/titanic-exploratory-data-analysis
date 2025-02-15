@@ -1,4 +1,4 @@
-# Project Name: Titanic - Machine Learning from Disaster
+# Project Name: Titanic - EDA
 
 In this notebook, we perform an Exploratory Data Analysis (EDA) on the Titanic dataset to gain insights into the factors that contributed to passenger survival during the tragic sinking of the Titanic on April 15, 1912. The goal of this analysis is to explore the dataset, clean it, visualize relationships between key features, and generate insights that will help predict the likelihood of survival based on passenger characteristics.
 
